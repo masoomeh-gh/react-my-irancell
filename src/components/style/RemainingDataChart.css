@@ -1,0 +1,19 @@
+#left-side > #remaining-data > #remaining-data-chart {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#left-side > #remaining-data > #remaining-data-chart > button {
+    width: 50%;
+    background-color: #FDC816;
+    outline: none;
+    border-radius: 1rem;
+    border: none;
+    padding: .75rem;
+    color: white;
+    font-weight: bolder;
+}

@@ -1,0 +1,11 @@
+#download-box {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    direction: ltr;
+    align-items: center;
+    background-color: white;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-top: auto;
+}

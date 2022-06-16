@@ -1,0 +1,19 @@
+#left-side > #profile {
+    background-color: white;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    padding: .5rem      ;
+}
+
+#left-side > #profile > div {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    justify-content: center;
+    align-items: center;
+    direction: ltr;
+}

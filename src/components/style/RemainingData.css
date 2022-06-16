@@ -1,0 +1,9 @@
+#left-side > #remaining-data {
+    display: flex;
+    flex-direction: column;
+    background-color: #FFFCEF;
+    padding: 1rem;
+    border-radius: 1rem;
+    gap: 1rem;
+    height: 100%;
+}
