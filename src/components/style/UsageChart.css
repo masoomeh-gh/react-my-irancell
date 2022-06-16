@@ -1,0 +1,11 @@
+#center > #usage-chart {
+    background-color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+#center > #usage-chart > div{
+    width: 70%;
+    height: 40%;
+    margin: 0 auto;
+}
