@@ -1,0 +1,21 @@
+#search-box-holder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem .5rem;
+}
+
+.search-input-holder {
+    border: 1px solid lightgrey;
+    border-radius: .5rem;
+    padding: .5rem 1rem;
+    display: flex;
+    flex-direction: row;
+    gap: .5rem;
+}
+
+.search-input {
+    outline: none;
+    font-size: 1rem;
+    border: none;
+}

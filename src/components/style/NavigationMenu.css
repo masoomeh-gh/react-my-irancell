@@ -1,0 +1,24 @@
+
+#navigation-menu > ul {
+    list-style-type: none;
+    flex-direction: column;
+}
+
+#navigation-menu > ul > li {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    cursor: pointer;
+    padding: 0 2rem;
+}
+
+#navigation-menu > ul > li:hover {
+    border-left: .25rem solid #FEE38A;
+}
+
+#navigation-menu > ul > li > div {
+    display: flex;
+    flex-direction: row;
+    padding: 1.2rem 0;
+    gap: 1rem;
+}

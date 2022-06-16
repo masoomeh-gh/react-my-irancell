@@ -1,0 +1,17 @@
+#branding {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: .5rem;
+    padding: 1rem .5rem;
+}
+
+#branding > .branding-title {
+    background-color: #FDC816;
+    color: black;
+    font-size: 1.2rem;
+    border-radius: 1rem;
+    padding: .5rem 1rem;
+    font-weight: bolder;
+}
